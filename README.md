@@ -35,6 +35,7 @@ ___
 ### Files
 
 - `nimblemodeldata.csv`:  All data for the known fate logistic regression model (max 15 days per bird)
+- `known_fate_bandingmortality_model.R`: includes nimble model code for known fate logisitic regression model
 
 ### Data column names
 - bandnum_index: ID value for each bird (1256 total birds)
