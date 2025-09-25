@@ -34,4 +34,14 @@ Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 ___
 ### Files
 
+- `nimblemodeldata.csv`:  All data for the known fate logistic regression model (max 15 days per bird)
 
+### Data column names
+- bandnum_index: ID value for each bird (1256 total birds)
+- bander_index: ID value associated with a specific bander
+- day_index: 0-15, 0 being the day of banding and the rest are the following calendar days
+- state_index: state or province index (total of 17 different agencies)
+- mean_mintemp_prev5_scaled: the 5 day minimum temperature rolling average, scaled
+- PCA_weight_scaled: adjusted body weight based on PCA analysis (see methods for description)
+- interval: days since last check in (majority of birds missed no checkins) for known fate model
+- survived: 0 being the bird died that day, 1 being the bird lived
