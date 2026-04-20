@@ -5,16 +5,10 @@
 ## packages
 library(tidyverse)
 library(nimble)
-library(factoextra)
-library(parallel)
 library(nimbleHMC)
 library(coda)
-library(janitor)
-library(MCMCvis)
-library(readxl)
 
-
-data_model <- read_csv("nimblemodeldata.csv")
+data_model <- read_csv("nimblemodeldata_apr2025.csv") 
 
 #-------------------------------------------------------------------------#
 ###### BAYESIAN MODEL IN NIMBLE  ###################
@@ -26,7 +20,7 @@ data_model <- read_csv("nimblemodeldata.csv")
 nobs <- nrow(data_model)
 
 # number of individuals in study
-nind <- length(unique(data_model$bandnum))
+nind <- length(unique(data_model$bandnum_index))
 
 # number of years in study
 # nyear <- length(unique(data_model$year))
@@ -136,7 +130,7 @@ nimble_constants <- list(
   nday = nday,
   nbander = nbander,
   nstate = nstate,
-  bander_index = data_model$bander_index_new, # Use new index where "other" = 54
+  bander_index = data_model$bander_index_new,
   day_index = data_model$day_index, 
   age_cat = data_model$age_index,
   state_index = data_model$state_index,
