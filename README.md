@@ -1,4 +1,4 @@
-# Assessing daily survival post-transmitter attachment in eastern mallards
+# Short-term survival of mallards following external transmitter attachment 
 
 This repository contains the data and code used in the following publication:
 
@@ -47,6 +47,7 @@ ___
 - bandnum_index: ID value for each bird (1256 total birds)
 - bander_index: ID value associated with a specific bander
 - day_index: 0-15, 0 being the day of banding and the rest are the following calendar days
+- age_index: 1 (ASY birds), 2 (SY birds)
 - state_index: state or province index (total of 17 different agencies)
 - mean_mintemp_prev5_scaled: the 5 day minimum temperature rolling average, scaled
 - PCA_weight_scaled: adjusted body weight based on PCA analysis (see methods for description)
