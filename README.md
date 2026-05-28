@@ -40,7 +40,7 @@ Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 ___
 ### Files
 
-- `nimblemodeldata.csv`:  All data for the known fate logistic regression model (max 15 days per bird)
+- `nimblemodeldata_apr2026.csv`:  All data for the known fate logistic regression model (max 15 days per bird)
 - `known_fate_bandingmortality_model.R`: includes nimble model code for known fate logisitic regression model
 
 ### Data column names
