@@ -31,7 +31,7 @@ nbander <- length(unique(data_model$bander_name))
 # number of days
 nday <- length(unique(data_model$day_index))
 
-# number of state / provincial agences
+# number of state / provincial agencies
 
 nstate <- length(unique(data_model$state_index))
 
