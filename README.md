@@ -4,7 +4,7 @@ This repository contains the data and code used in the following publication:
 
 All analyses were completed using R. See manuscript for details about analyses.
 
-Please contact the corresponding author with questions about this data package or to seek potential collaborations using these data.
+Please contact the corresponding author with questions about this data or code.
 ___
 ### Description
 
@@ -12,7 +12,7 @@ ___
 
 ___
 ### Authors
-Cassidy L. Waldrep  
+Cassidy L. Waldrep (cassidywaldrep@gmail.com)
 Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 
 Madeline A. Ward     
