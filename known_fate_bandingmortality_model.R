@@ -8,7 +8,7 @@ library(nimble)
 library(nimbleHMC)
 library(coda)
 
-data_model <- read_csv("nimblemodeldata_apr2025.csv") 
+data_model <- read_csv("nimblemodeldata_apr2026.csv") 
 
 #-------------------------------------------------------------------------#
 ###### BAYESIAN MODEL IN NIMBLE  ###################
