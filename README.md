@@ -1,15 +1,16 @@
 # Short-term survival of mallards following external transmitter attachment 
 
-This repository contains the data and code used in the following publication:
+___
+### Description
+
+This repository contains the data and code used in the following publication: Short-term survival of mallards following external transmitter attachment 
+
+Zenodo code/data DOI: 10.5281/zenodo.20613097
+Manuscript DOI: 
 
 All analyses were completed using R. See manuscript for details about analyses.
 
 Please contact the corresponding author with questions about this data or code.
-___
-### Description
-
-
-
 ___
 ### Authors
 Cassidy L. Waldrep (cassidy.waldrep@usask.ca; cassidywaldrep@gmail.com)
