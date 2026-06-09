@@ -12,7 +12,7 @@ ___
 
 ___
 ### Authors
-Cassidy L. Waldrep (cassidywaldrep@gmail.com)
+Cassidy L. Waldrep (cassidy.waldrep@usask.ca; cassidywaldrep@gmail.com)
 Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 
 Madeline A. Ward     
@@ -29,6 +29,27 @@ New York State Department of Environmental Conservation, Albany, NY, USA
 
 Jacob N. Straub   
 SUNY Brockport, Brockport, NY, USA
+
+Nathaniel R. Huck
+Pennsylvania Game Commission, Harrisburg, PA, USA
+
+Ted S. Barney
+Canadian Wildlife Service, Environment and Climate Change Canada, Sackville, NB, Canada
+
+Abigail C. Butler
+SUNY Brockport, Brockport, NY, USA
+
+Austin H. Damminger
+New Jersey Fish and Wildlife, Woodbine, NJ, USA
+
+Shawn W. Meyer
+Canadian Wildlife Service, Environment and Climate Change Canada, Ottawa, ON, Canada
+
+Theodore C. Nichols
+New Jersey Fish and Wildlife, Woodbine, NJ, USA
+
+Daria J. Sparks
+Virginia Department of Wildlife Resources, Charles City, VA
 
 Mathieu Tétreault     
 Canadian Wildlife Service, Environment and Climate Change Canada, Québec, QC, Canada
