@@ -5,7 +5,8 @@ ___
 
 This repository contains the data and code used in the following publication: Short-term survival of mallards following external transmitter attachment 
 
-Zenodo code/data DOI:  10.5281/zenodo.20613097
+Zenodo code/data DOI:  
+10.5281/zenodo.20613097
 Manuscript DOI: 
 
 All analyses were completed using R. See manuscript for details about analyses.
