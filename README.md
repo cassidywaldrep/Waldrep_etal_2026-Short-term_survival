@@ -23,40 +23,40 @@ Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 John M. Coluccy      
 Ducks Unlimited, Inc., Great Lakes/Atlantic Region, Ann Arbor, MI, USA
 
-Nathaniel R. Huck   
+Nathaniel R. Huck     
 Minnesota Department of Natural Resources, Brainerd, MN, USA
  
-Josh C. Stiller   
+Josh C. Stiller     
 New York State Department of Environmental Conservation, Albany, NY, USA
 
-Jacob N. Straub   
+Jacob N. Straub     
 SUNY Brockport, Brockport, NY, USA
 
-Nathaniel R. Huck
+Nathaniel R. Huck    
 Pennsylvania Game Commission, Harrisburg, PA, USA
 
-Ted S. Barney
+Ted S. Barney     
 Canadian Wildlife Service, Environment and Climate Change Canada, Sackville, NB, Canada
 
-Abigail C. Butler
+Abigail C. Butler  
 SUNY Brockport, Brockport, NY, USA
 
-Austin H. Damminger
+Austin H. Damminger  
 New Jersey Fish and Wildlife, Woodbine, NJ, USA
 
-Shawn W. Meyer
+Shawn W. Meyer     
 Canadian Wildlife Service, Environment and Climate Change Canada, Ottawa, ON, Canada
 
-Theodore C. Nichols
+Theodore C. Nichols    
 New Jersey Fish and Wildlife, Woodbine, NJ, USA
 
-Daria J. Sparks
+Daria J. Sparks     
 Virginia Department of Wildlife Resources, Charles City, VA
 
-Mathieu Tétreault     
+Mathieu Tétreault       
 Canadian Wildlife Service, Environment and Climate Change Canada, Québec, QC, Canada
 
-Mitch D. Weegman     
+Mitch D. Weegman       
 Department of Biology, University of Saskatchewan, Saskatoon, SK, Canada
 
 
