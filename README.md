@@ -7,7 +7,7 @@ This repository contains the data and code used in the following publication: Sh
 
 Zenodo code/data DOI:  10.5281/zenodo.20613097
 
-Manuscript DOI: 
+Manuscript DOI: 10.1111/ibi.70081
 
 All analyses were completed using R. See manuscript for details about analyses.
 
